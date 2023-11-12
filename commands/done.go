@@ -5,7 +5,7 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/thash/asana/api"
+	"github.com/4thel00z/asana/api"
 )
 
 func Done(c *cli.Context) {

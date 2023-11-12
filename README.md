@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/thash/asana.svg?branch=master)](https://travis-ci.org/thash/asana)
+[![Build Status](https://travis-ci.org/4thel00z/asana.svg?branch=master)](https://travis-ci.org/4thel00z/asana)
 
 OverView
 =========================================
@@ -13,13 +13,13 @@ Requirements: go
 
 ### Mac OS X
 
-    $ brew tap thash/asana
+    $ brew tap 4thel00z/asana
     $ brew install asana
 
 
 ### Others
 
-    $ go get github.com/thash/asana
+    $ go get github.com/4thel00z/asana
 
 
 Usage
@@ -28,7 +28,7 @@ Usage
     $ asana help
 
     NAME:
-       asana - asana cui client ( https://github.com/thash/asana )
+       asana - asana cui client ( https://github.com/4thel00z/asana )
 
     USAGE:
        asana [global options] command [command options] [arguments...]
@@ -62,7 +62,7 @@ Usage
 
     paste your Personal Access Token: _ <Copy Token from URL above and paste it.>
 
-![](https://raw.githubusercontent.com/thash/asana/images/token.png)
+![](https://raw.githubusercontent.com/4thel00z/asana/images/token.png)
 
 When you paste valid token, your workspaces will be displayed.
 
@@ -145,7 +145,7 @@ Or, `today` or `tomorrow`.
 
 This command opens editor. Write comment, save and close.
 
-![](https://raw.githubusercontent.com/thash/asana/images/cmt.png)
+![](https://raw.githubusercontent.com/4thel00z/asana/images/cmt.png)
 
 You can change editor by updating `$EDITOR` environment variable.
 
@@ -161,4 +161,4 @@ You can change editor by updating `$EDITOR` environment variable.
 TODO
 =========================================
 
-See [Issues](https://github.com/thash/asana/issues)
+See [Issues](https://github.com/4thel00z/asana/issues)

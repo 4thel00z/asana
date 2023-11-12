@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/thash/asana/config"
-	"github.com/thash/asana/utils"
+	"github.com/4thel00z/asana/config"
+	"github.com/4thel00z/asana/utils"
 )
 
 const (

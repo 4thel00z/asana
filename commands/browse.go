@@ -6,9 +6,9 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/thash/asana/api"
-	"github.com/thash/asana/config"
-	"github.com/thash/asana/utils"
+	"github.com/4thel00z/asana/api"
+	"github.com/4thel00z/asana/config"
+	"github.com/4thel00z/asana/utils"
 )
 
 func Browse(c *cli.Context) {

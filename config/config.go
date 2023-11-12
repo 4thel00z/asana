@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/thash/asana/utils"
+	"github.com/4thel00z/asana/utils"
 
 	"fmt"
 	"gopkg.in/yaml.v1"

@@ -1,6 +1,6 @@
-module github.com/thash/asana
+module github.com/4thel00z/asana
 
-go 1.17
+go 1.21
 
 require (
 	github.com/urfave/cli/v2 v2.3.0

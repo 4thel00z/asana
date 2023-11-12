@@ -5,14 +5,14 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/thash/asana/commands"
+	"github.com/4thel00z/asana/commands"
 )
 
 func main() {
 	app := cli.NewApp()
 	app.Name = "asana"
 	app.Version = "0.2.1"
-	app.Usage = "asana cui client ( https://github.com/thash/asana )"
+	app.Usage = "asana cui client ( https://github.com/4thel00z/asana )"
 
 	app.Commands = defs()
 	app.Run(os.Args)
