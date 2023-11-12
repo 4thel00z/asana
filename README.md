@@ -11,15 +11,7 @@ Install
 
 Requirements: go
 
-### Mac OS X
-
-    $ brew tap 4thel00z/asana
-    $ brew install asana
-
-
-### Others
-
-    $ go get github.com/4thel00z/asana
+    $ go install github.com/4thel00z/asana/...@latest
 
 
 Usage
